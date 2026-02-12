@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/advanced-scientific-calculator-218320-218334/scientific_calculator_frontend"
+}
